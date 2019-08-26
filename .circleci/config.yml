@@ -1,6 +1,9 @@
 version: 2
 jobs:
   build:
+    branches:
+      only:
+        - master
     docker:
       - image: xsoft/xbooks:latest
     steps:
@@ -21,3 +24,9 @@ jobs:
       - run: 
           name: Versioning
           command: npx semantic-release
+workflows:
+  version: 2
+  workflow:
+    jobs:
+    - build
+    - deploy
