@@ -36,6 +36,16 @@
         "infra",
         "maintenance"
       ]
+    },
+    {
+      "login": "greenkeeper",
+      "name": "greenkeeper",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/21041633?v=4",
+      "profile": "https://github.com/Greenkeeper",
+      "contributions": [
+        "security",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
