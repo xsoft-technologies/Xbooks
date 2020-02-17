@@ -57,6 +57,6 @@
     "@semantic-release/changelog": "^3.0.4",
     "@semantic-release/git": "^7.0.16",
     "all-contributors-cli": "^6.8.1",
-    "semantic-release": "^15.13.19"
+    "semantic-release": "^16.0.0"
   }
 }
