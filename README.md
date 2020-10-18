@@ -1,6 +1,6 @@
-❌ DO NOT USE THIS; IF YOU DO NOT KNOW HOW TO DO CODDING, THIS PROJECT IS STILL UNDER WORK, as of FEB 16 2020, THERE ARE SO MANY BUGS ❌
+❌ DO NOT USE THIS; IF YOU DO NOT KNOW HOW TO DO CODDING, THIS PROJECT IS STILL UNDER WORK, as of OCT 18 2020, THERE ARE SO MANY BUGS ❌
 
-> NOTE: I'm trying to build v2.0 using github pages along with github actions (using jekyll liquid, though i'm still not sure of how to replace dockerized python app of Xbooks which runs on CI runner!), limiting this project to github might i think increase the quality! - Aug 03 2020
+> NOTE: I'm trying to build v2.0 using github pages along with github actions (using jekyll liquid, though i'm still not sure of how to replace dockerized python app of Xbooks which runs on CI runner!), limiting this project to github might i think increase the quality! - OCT 18 2020
 
 # a software for thought producers!
 <h4 align="center">information engenders thoughts for the next generation</h4>
