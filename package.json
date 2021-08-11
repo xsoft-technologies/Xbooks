@@ -46,7 +46,7 @@
     "get-installed-path": "^4.0.8",
     "inquirer": "^7.0.0",
     "rimraf": "^3.0.0",
-    "simple-git": "^1.124.0",
+    "simple-git": "^2.0.0",
     "update-notifier": "^4.0.0"
   },
   "repository": {
